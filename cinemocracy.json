@@ -1,0 +1,236 @@
+{
+    "BattleOfBritain": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/BattleOfBritain/BattleOfBritain.mpeg",
+            "https://archive.org/download/BattleOfBritain/BattleOfBritain.ogv",
+            "https://archive.org/download/BattleOfBritain/BattleOfBritain_512kb.mp4"
+        ],
+        "title": "Why We Fight: The Battle of Britain",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    },
+    "BattleOfChina": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/BattleOfChina/BattleOfChina.mpeg",
+            "https://archive.org/download/BattleOfChina/BattleOfChina.ogv",
+            "https://archive.org/download/BattleOfChina/BattleOfChina_512kb.mp4"
+        ],
+        "title": "Why We Fight: The Battle of China",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    },
+    "BattleOfMidway": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/BattleOfMidway/BattleOfMidway.mpeg",
+            "https://archive.org/download/BattleOfMidway/BattleOfMidway.ogv",
+            "https://archive.org/download/BattleOfMidway/BattleOfMidway_512kb.mp4"
+        ],
+        "title": "The Battle of Midway",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    },
+    "BattleOfRussiaI": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/BattleOfRussiaI/BattleOfRussiaI.mpeg",
+            "https://archive.org/download/BattleOfRussiaI/BattleOfRussiaI.ogv",
+            "https://archive.org/download/BattleOfRussiaI/BattleOfRussiaI_512kb.mp4"
+        ],
+        "title": "Why We Fight: The Battle of Russia Part I",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    },
+    "BattleOfRussiaII": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/BattleOfRussiaII/BattleOfRussiaII.mpeg",
+            "https://archive.org/download/BattleOfRussiaII/BattleOfRussiaII.ogv",
+            "https://archive.org/download/BattleOfRussiaII/BattleOfRussiaII_512kb.mp4"
+        ],
+        "title": "Why We Fight: The Battle of Russia Part II",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    },
+    "December7th": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/December7th/December7th.mpeg",
+            "https://archive.org/download/December7th/December7th.ogv",
+            "https://archive.org/download/December7th/December7th_512kb.mp4"
+        ],
+        "title": "December 7th",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    },
+    "DivideAndConquer": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/DivideAndConquer/DivideAndConquer.mpeg",
+            "https://archive.org/download/DivideAndConquer/DivideAndConquer.ogv",
+            "https://archive.org/download/DivideAndConquer/DivideAndConquer_512kb.mp4"
+        ],
+        "title": "Why We Fight: Divide and Conquer",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    },
+    "FightingLady": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/FightingLady/FightingLady.mpeg",
+            "https://archive.org/download/FightingLady/FightingLady.ogv",
+            "https://archive.org/download/FightingLady/FightingLady_512kb.mp4"
+        ],
+        "title": "The Fighting Lady",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    },
+    "MemphisBelle": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/MemphisBelle/MemphisBelle.mpeg",
+            "https://archive.org/download/MemphisBelle/MemphisBelle.ogv",
+            "https://archive.org/download/MemphisBelle/MemphisBelle_512kb.mp4"
+        ],
+        "title": "The Memphis Belle",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    },
+    "PreludeToWar": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/PreludeToWar/PreludeToWar.mpeg",
+            "https://archive.org/download/PreludeToWar/PreludeToWar.ogv",
+            "https://archive.org/download/PreludeToWar/PreludeToWar_512kb.mp4"
+        ],
+        "title": "Why We Fight: Prelude to War",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    },
+    "Report_From_The_Aleutians": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/Report_From_The_Aleutians/Report_From_The_Aleutians.mpeg",
+            "https://archive.org/download/Report_From_The_Aleutians/Report_From_The_Aleutians.ogv",
+            "https://archive.org/download/Report_From_The_Aleutians/Report_From_The_Aleutians_512kb.mp4"
+        ],
+        "title": "Report from the Aleutians",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    },
+    "TheNazisStrike": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/TheNazisStrike/TheNazisStrike.mpeg",
+            "https://archive.org/download/TheNazisStrike/TheNazisStrike.ogv",
+            "https://archive.org/download/TheNazisStrike/TheNazisStrike_512kb.mp4"
+        ],
+        "title": "Why We Fight: The Nazi Strike",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    },
+    "WarComesToAmerica": {
+        "collection": [
+            "cinemocracy",
+            "moviesandfilms"
+        ],
+        "tags": [],
+        "streams": [
+            "https://archive.org/download/WarComesToAmerica/WarComesToAmerica.mpeg",
+            "https://archive.org/download/WarComesToAmerica/WarComesToAmerica.ogv",
+            "https://archive.org/download/WarComesToAmerica/WarComesToAmerica_512kb.mp4"
+        ],
+        "title": "Why We Fight: War Comes to America",
+        "duration": null,
+        "mediatype": "movies",
+        "sound": "sound",
+        "color": "color",
+        "images": []
+    }
+}
