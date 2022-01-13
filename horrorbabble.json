@@ -5038,5 +5038,20 @@
             "Horror"
         ],
         "thumbnail": "https://i.ytimg.com/vi/GzMbPiQiY8g/sddefault.jpg"
+    },
+    "https://youtube.com/watch?v=gLbU65FmELs": {
+        "author": "HorrorBabble",
+        "title": "\"A Baker's Dozen at The Zetland Hotel\" by Ian Gordon / HorrorBabble ORIGINAL",
+        "url": "https://youtube.com/watch?v=gLbU65FmELs",
+        "duration": 9072,
+        "upload_ts": 1641772800.0,
+        "tags": [
+            "HorrorBabble",
+            "Original Production",
+            "Fiction",
+            "Audiobook",
+            "Horror"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/gLbU65FmELs/hqdefault.jpg"
     }
 }

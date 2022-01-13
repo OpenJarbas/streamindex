@@ -280,20 +280,6 @@
         "thumbnail": "https://i.ytimg.com/vi/2iokGZmgXYc/sddefault.jpg",
         "description": "An alien arrives on Earth to conduct an in-depth analysis on \"love.\""
     },
-    "https://youtube.com/watch?v=HwqV7zBXgQo": {
-        "author": "Omeleto",
-        "title": "Teardrop",
-        "url": "https://youtube.com/watch?v=HwqV7zBXgQo",
-        "duration": 585,
-        "upload_ts": 1633647600.0,
-        "tags": [
-            "teardrop",
-            "drama short film",
-            "omeleto"
-        ],
-        "thumbnail": "https://i.ytimg.com/vi/HwqV7zBXgQo/sddefault.jpg",
-        "description": "A drunk guy accidentally vomits on a homeless man, then tries to make it up to him."
-    },
     "https://youtube.com/watch?v=PjY7BQeMDcM": {
         "author": "Omeleto",
         "title": "Seek",
@@ -349,20 +335,6 @@
         ],
         "thumbnail": "https://i.ytimg.com/vi/gS6fCga-KBM/sddefault.jpg",
         "description": "A woman discovers a mysterious mask, then wakes up several days later..."
-    },
-    "https://youtube.com/watch?v=9m8voeAMjuw": {
-        "author": "Omeleto",
-        "title": "SC 4",
-        "url": "https://youtube.com/watch?v=9m8voeAMjuw",
-        "duration": 464,
-        "upload_ts": 1632697200.0,
-        "tags": [
-            "sc 4",
-            "drama short film",
-            "omeleto"
-        ],
-        "thumbnail": "https://i.ytimg.com/vi/9m8voeAMjuw/sddefault.jpg",
-        "description": "A woman wakes up in an overturned car. Her phone is ringing, but it's just out of reach..."
     },
     "https://youtube.com/watch?v=roxea5hV6mQ": {
         "author": "Omeleto",
@@ -7823,5 +7795,96 @@
             "omeleto"
         ],
         "thumbnail": "https://i.ytimg.com/vi/IBQ3IZAH090/sddefault.jpg"
+    },
+    "https://youtube.com/watch?v=77qGQKMWtbY": {
+        "author": "Omeleto",
+        "title": "A man inherits a pedestal fan from his late mother -- that comes to life. | The Fan",
+        "url": "https://youtube.com/watch?v=77qGQKMWtbY",
+        "duration": 1037,
+        "upload_ts": 1641513600.0,
+        "tags": [
+            "the fan",
+            "drama short film",
+            "omeleto"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/77qGQKMWtbY/sddefault.jpg"
+    },
+    "https://youtube.com/watch?v=2R0KMcD-0BU": {
+        "author": "Omeleto",
+        "title": "A woman finds her soulmate in Vegas, then discovers she doesn't know him at all. | Penny and Paul",
+        "url": "https://youtube.com/watch?v=2R0KMcD-0BU",
+        "duration": 755,
+        "upload_ts": 1641427200.0,
+        "tags": [
+            "penny and paul",
+            "romance short film",
+            "omeleto"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/2R0KMcD-0BU/sddefault.jpg"
+    },
+    "https://youtube.com/watch?v=1FdFbdMhung": {
+        "author": "Omeleto",
+        "title": "An elderly woman goes to her late husband's grave and reasserts her independence. | Gypsy's Kiss",
+        "url": "https://youtube.com/watch?v=1FdFbdMhung",
+        "duration": 527,
+        "upload_ts": 1641340800.0,
+        "tags": [
+            "gypsy's kiss",
+            "drama short film",
+            "omeleto"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/1FdFbdMhung/sddefault.jpg"
+    },
+    "https://youtube.com/watch?v=wTwsYvHUvOE": {
+        "author": "Omeleto",
+        "title": "A young man covers for his autistic brother when a neighbor's horse goes missing. | Dig",
+        "url": "https://youtube.com/watch?v=wTwsYvHUvOE",
+        "duration": 846,
+        "upload_ts": 1641254400.0,
+        "tags": [
+            "dig",
+            "drama short film",
+            "omeleto"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/wTwsYvHUvOE/sddefault.jpg"
+    },
+    "https://youtube.com/watch?v=RXzLugB_IpQ": {
+        "author": "Omeleto",
+        "title": "An Indian American teen tries to become a rapper. But his mother shuts him down. | Paly",
+        "url": "https://youtube.com/watch?v=RXzLugB_IpQ",
+        "duration": 1144,
+        "upload_ts": 1641168000.0,
+        "tags": [
+            "paly",
+            "drama short film",
+            "omeleto"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/RXzLugB_IpQ/sddefault.jpg"
+    },
+    "https://youtube.com/watch?v=b3Lg1N4JRpc": {
+        "author": "Omeleto",
+        "title": "A young woman moves out of her ex-boyfriend's apartment -- and she takes the dog with her. | Milo",
+        "url": "https://youtube.com/watch?v=b3Lg1N4JRpc",
+        "duration": 420,
+        "upload_ts": 1641945600.0,
+        "tags": [
+            "milo",
+            "drama short film",
+            "omeleto"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/b3Lg1N4JRpc/sddefault.jpg"
+    },
+    "https://youtube.com/watch?v=n4DQ0C9bqes": {
+        "author": "Omeleto",
+        "title": "A man who bullied a disabled girl tries to escape his past. Then an angry mob finds him. | Iniquity",
+        "url": "https://youtube.com/watch?v=n4DQ0C9bqes",
+        "duration": 1387,
+        "upload_ts": 1641772800.0,
+        "tags": [
+            "iniquity",
+            "drama short film",
+            "omeleto"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/n4DQ0C9bqes/hqdefault.jpg"
     }
 }

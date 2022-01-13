@@ -1,0 +1,37 @@
+{
+    "the-rescuers-down-under-1991-vhs_202011": {
+        "collection": "vhsvault",
+        "tags": [
+            "All Animated VHS and DVD Captures"
+        ],
+        "streams": [
+            "https://archive.org/download/the-rescuers-down-under-1991-vhs_202011/101 Dalmatians (1992 VHS).mp4",
+            "https://archive.org/download/the-rescuers-down-under-1991-vhs_202011/101 Dalmatians II Patch's London Adventure (2003 VHS).mp4",
+            "https://archive.org/download/the-rescuers-down-under-1991-vhs_202011/Pinocchio (1993 VHS).mp4",
+            "https://archive.org/download/the-rescuers-down-under-1991-vhs_202011/Sleeping Beauty (1987 VHS).mp4",
+            "https://archive.org/download/the-rescuers-down-under-1991-vhs_202011/The Rescuers Down Under (1991 VHS).mp4"
+        ],
+        "title": "All Animated VHS and DVD Captures (For Patrick's Movie Corner)",
+        "duration": null,
+        "images": []
+    },
+    "aladdin_20200529": {
+        "collection": "vhsvault",
+        "tags": [
+            "davidcaballero372's Videos and DVD"
+        ],
+        "streams": [
+            "https://archive.org/download/aladdin_20200529/Monsters Inc (2002 VHS).mp4",
+            "https://archive.org/download/aladdin_20200529/Pinocchio (1993 VHS).mp4",
+            "https://archive.org/download/aladdin_20200529/Pocahontas II Journey to a New World (1998 VHS).mp4",
+            "https://archive.org/download/aladdin_20200529/The Black Cauldron (1998 VHS).mp4",
+            "https://archive.org/download/aladdin_20200529/The Jungle Book (1991 VHS).mp4",
+            "https://archive.org/download/aladdin_20200529/The Jungle Book (1997 VHS).mp4",
+            "https://archive.org/download/aladdin_20200529/The Jungle Book (2014 DVD) (French).mp4",
+            "https://archive.org/download/aladdin_20200529/The Rescuers (1992 VHS).mp4"
+        ],
+        "title": "All Animated Videos and DVD",
+        "duration": null,
+        "images": []
+    }
+}

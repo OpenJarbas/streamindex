@@ -461,5 +461,36 @@
             "radio"
         ],
         "thumbnail": "https://i.ytimg.com/vi/bBmKLYoggkA/sddefault.jpg"
+    },
+    "https://youtube.com/watch?v=patQpEkD2_Y": {
+        "author": "NewSovietWave",
+        "title": "🚀 Sovietwave Radio 24/7 Live Stream 🚀",
+        "url": "https://youtube.com/watch?v=patQpEkD2_Y",
+        "duration": 0,
+        "upload_ts": 1639353600.0,
+        "tags": [
+            "sovietwave mix",
+            "sovietwave",
+            "sovietwave radio",
+            "synthwave",
+            "soviet wave",
+            "советвейв",
+            "retrofuturism",
+            "retrowave",
+            "80s",
+            "music",
+            "советская волна",
+            "soviet",
+            "chillwave",
+            "synthwave mix",
+            "russian synthwave",
+            "ussr",
+            "mixtape",
+            "radio",
+            "dreamwave",
+            "newsovietwave",
+            "new soviet wave"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/patQpEkD2_Y/sddefault.jpg?v=61b73121"
     }
 }
